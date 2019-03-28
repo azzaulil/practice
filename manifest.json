@@ -3,17 +3,17 @@
   "name": "Owh you open the wrong app!",
   "icons": [
     {
-      "src": "product.png",
+      "src": "wa32.png",
       "sizes": "32x32",
       "type": "image/png"
     },
     {
-      "src": "product(1).png",
+      "src": "wa64.png",
       "sizes": "64x64",
       "type": "image/png"
     },
     {
-      "src": "product(2).png",
+      "src": "wa128.png",
       "sizes": "128x128",
       "type": "image/png"
     },
