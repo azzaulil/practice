@@ -1,13 +1,13 @@
 {
-  "main.css": "/pulsaulil/static/css/main.fa3e0397.chunk.css",
-  "main.js": "/pulsaulil/static/js/main.e4273725.chunk.js",
-  "main.js.map": "/pulsaulil/static/js/main.e4273725.chunk.js.map",
-  "runtime~main.js": "/pulsaulil/static/js/runtime~main.2a77bfbe.js",
-  "runtime~main.js.map": "/pulsaulil/static/js/runtime~main.2a77bfbe.js.map",
-  "static/js/2.f885ce20.chunk.js": "/pulsaulil/static/js/2.f885ce20.chunk.js",
-  "static/js/2.f885ce20.chunk.js.map": "/pulsaulil/static/js/2.f885ce20.chunk.js.map",
-  "index.html": "/pulsaulil/index.html",
-  "precache-manifest.ef8e859b64b1925f308b17f9485258c4.js": "/pulsaulil/precache-manifest.ef8e859b64b1925f308b17f9485258c4.js",
-  "service-worker.js": "/pulsaulil/service-worker.js",
-  "static/css/main.fa3e0397.chunk.css.map": "/pulsaulil/static/css/main.fa3e0397.chunk.css.map"
+  "main.css": "/practice/static/css/main.fa3e0397.chunk.css",
+  "main.js": "/practice/static/js/main.d86dfa51.chunk.js",
+  "main.js.map": "/practice/static/js/main.d86dfa51.chunk.js.map",
+  "runtime~main.js": "/practice/static/js/runtime~main.1e2f0dd2.js",
+  "runtime~main.js.map": "/practice/static/js/runtime~main.1e2f0dd2.js.map",
+  "static/js/2.f885ce20.chunk.js": "/practice/static/js/2.f885ce20.chunk.js",
+  "static/js/2.f885ce20.chunk.js.map": "/practice/static/js/2.f885ce20.chunk.js.map",
+  "index.html": "/practice/index.html",
+  "precache-manifest.9c5649ae9e63cac8cf33ce95d044290e.js": "/practice/precache-manifest.9c5649ae9e63cac8cf33ce95d044290e.js",
+  "service-worker.js": "/practice/service-worker.js",
+  "static/css/main.fa3e0397.chunk.css.map": "/practice/static/css/main.fa3e0397.chunk.css.map"
 }
